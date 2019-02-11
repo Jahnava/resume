@@ -1,0 +1,14 @@
+#header-container{
+  height: 200px;
+  width:100%;
+  background-color: blue;
+  margin-top: 2%;
+}
+#header-img {
+  border-radius: 100%;
+  border: 2px solid white;
+  height: 15%;
+  width: 15%;
+  margin-right: 8%;
+  margin-top: -5%
+}
