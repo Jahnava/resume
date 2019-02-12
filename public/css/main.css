@@ -40,3 +40,16 @@
 .white-text{
   color:#d3d3d3;
 }
+
+.box{
+  margin-top:2%;
+}
+
+.titles {
+  color:#375a7c;
+  font-family: 'Noto Serif', serif;
+}
+
+#footer{
+font-size: 15px;
+}
